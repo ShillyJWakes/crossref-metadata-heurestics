@@ -2,3 +2,6 @@
 notebooks/playground.ipynb
 notebooks/.ipynb_checkpoints/playground-checkpoint.ipynb
 notebooks/.ipynb_checkpoints/data_cleaning-checkpoint.ipynb
+Prac_ignore/.ipynb_checkpoints/IF_prac-checkpoint.ipynb
+Prac_ignore/IF_prac.ipynb
+Prac_ignore/IsolationForest_prac.py
