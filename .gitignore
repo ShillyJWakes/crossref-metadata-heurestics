@@ -18,3 +18,4 @@ Prac_ignore/IsolationForest_prac.py
 .spyproject/config/vcs.ini
 .spyproject/config/workspace.ini
 data/output/playground_data.csv
+notebooks/stat_playground.ipynb
