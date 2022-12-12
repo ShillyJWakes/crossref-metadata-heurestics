@@ -19,3 +19,7 @@ Prac_ignore/IsolationForest_prac.py
 .spyproject/config/workspace.ini
 data/output/playground_data.csv
 notebooks/stat_playground.ipynb
+notebooks/sample_expansion_prac.ipynb
+notebooks/.ipynb_checkpoints/sample_expansion_prac-checkpoint.ipynb
+data/output/playground_data.xlsx
+data/output/Copy of playground_data.xlsx
