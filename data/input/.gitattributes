@@ -1,3 +1,2 @@
-phase2_sample.csv filter=lfs diff=lfs merge=lfs -text
-cleaned_data.csv filter=lfs diff=lfs merge=lfs -text
+01_raw_data.csv filter=lfs diff=lfs merge=lfs -text
 02_cleaned_data.csv filter=lfs diff=lfs merge=lfs -text
