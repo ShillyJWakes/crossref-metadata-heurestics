@@ -55,3 +55,7 @@ Validation/Notebook/hoodle.ipynb
 Validation/Notebook/ML_stuff.ipynb
 data/input/phase1_doi_list.csv
 notebooks/.ipynb_checkpoints/hoodle-checkpoint.ipynb
+data/ignore_excel/06_network_data.csv
+Validation/Prac_ignore/.ipynb_checkpoints/IF_prac-checkpoint.ipynb
+Validation/Prac_ignore/IF_prac.ipynb
+Validation/Prac_ignore/IsolationForest_prac.py
