@@ -59,3 +59,5 @@ data/ignore_excel/06_network_data.csv
 Validation/Prac_ignore/.ipynb_checkpoints/IF_prac-checkpoint.ipynb
 Validation/Prac_ignore/IF_prac.ipynb
 Validation/Prac_ignore/IsolationForest_prac.py
+Validation/Data/10_cleaned_sample.csv
+data/output/fig.png
