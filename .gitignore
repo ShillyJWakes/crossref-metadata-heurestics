@@ -61,3 +61,6 @@ Validation/Prac_ignore/IF_prac.ipynb
 Validation/Prac_ignore/IsolationForest_prac.py
 Validation/Data/10_cleaned_sample.csv
 data/output/fig.png
+notebooks/pies.ipynb
+notebooks/nlp_playground.ipynb
+notebooks/.ipynb_checkpoints/nlp_playground-checkpoint.ipynb
