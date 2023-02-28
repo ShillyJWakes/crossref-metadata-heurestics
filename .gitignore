@@ -64,3 +64,5 @@ data/output/fig.png
 notebooks/pies.ipynb
 notebooks/nlp_playground.ipynb
 notebooks/.ipynb_checkpoints/nlp_playground-checkpoint.ipynb
+crossref-venv/
+.vscode/settings.json
