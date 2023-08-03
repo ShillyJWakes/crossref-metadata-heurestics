@@ -66,3 +66,12 @@ notebooks/nlp_playground.ipynb
 notebooks/.ipynb_checkpoints/nlp_playground-checkpoint.ipynb
 crossref-venv/
 .vscode/settings.json
+*.omv
+data/xml_data.csv
+data/ignore_excel
+notebooks/figs
+notebooks/requests_xml.ipynb
+notebooks/descriptives.ipynb
+notebooks/.ipynb_checkpoints/requests_xml-checkpoint.ipynb
+data/output/05_adjusted.csv
+data/lang_data.csv
