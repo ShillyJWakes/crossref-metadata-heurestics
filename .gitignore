@@ -75,3 +75,5 @@ notebooks/descriptives.ipynb
 notebooks/.ipynb_checkpoints/requests_xml-checkpoint.ipynb
 data/output/05_adjusted.csv
 data/lang_data.csv
+venv/
+notebooks/.ipynb_checkpoints/
