@@ -11,3 +11,7 @@ data/xml_data.csv
 notebooks/figs
 notebooks/descriptives.ipynb
 venv/
+data/input/allv3.csv
+data/input/doi_langs.csv
+notebooks/data_cleaning.py
+*.parquet
